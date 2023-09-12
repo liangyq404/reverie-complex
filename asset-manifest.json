@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reverie-complex/static/css/main.ad0794a8.css",
+    "main.js": "/reverie-complex/static/js/main.fa3da541.js",
+    "index.html": "/reverie-complex/index.html",
+    "main.ad0794a8.css.map": "/reverie-complex/static/css/main.ad0794a8.css.map",
+    "main.fa3da541.js.map": "/reverie-complex/static/js/main.fa3da541.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad0794a8.css",
+    "static/js/main.fa3da541.js"
+  ]
+}

@@ -1,3 +1,0 @@
-_Reverie Complex_ is a pioneering New York-based studio where art and technology converge to create inspiring and captivating immersive experiences. We are fervently dedicated to crafting a new dimension of artistic expression by seamlessly merging the realms of creativity and innovation.
-
-With the mission of pushing boundaries and explore uncharted territories where imagination and technology intertwine. Artists at Reverie Complex are explorers of the digital frontier, traversing the landscapes of virtual reality, artificial intelligence, and cutting-edge design. Our journey is fueled by a profound commitment to break free from the ordinary and to unveil new dimensions of human potential.
