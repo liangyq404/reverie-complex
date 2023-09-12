@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.big-title {
+  @apply text-[8vw] font-medium;
+}
+
+.show {
+  @apply border border-red-500;
+}
+
+.work {
+  @apply show flex flex-row absolute items-center;
+}
+
+.work-pic {
+  @apply bg-gray-400 w-1/2 h-full show;
+}
+
+.work-text {
+  @apply p-5;
+}
