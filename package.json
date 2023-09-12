@@ -1,0 +1,19 @@
+{
+  "name": "reveriecomplex",
+  "version": "1.0.0",
+  "description": "portfolio website for reverie complex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangyq404/ReverieComplex.git"
+  },
+  "author": "Yuqing Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangyq404/ReverieComplex/issues"
+  },
+  "homepage": "https://github.com/liangyq404/ReverieComplex#readme"
+}
